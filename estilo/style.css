@@ -82,7 +82,7 @@ header> h1 {
 header > p {
     font-family: var(--fonte-destaque);
     font-size: 1.2em;
-    padding: 30px;
+    
     color: white;
     max-width: 500px;
     
